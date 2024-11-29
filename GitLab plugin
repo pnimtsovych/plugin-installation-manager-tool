@@ -1,0 +1,1 @@
+jenkins-plugin-cli --plugins gitlab-plugin:1.9.6
